@@ -258,28 +258,6 @@ const App: () => React$Node = () => {
           <MaterialCommunityIcons name="home" color={color} size={50} />
           <MaterialCommunityIcons name="home" color={color} size={50} />
           <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-          <MaterialCommunityIcons name="home" color={color} size={50} />
-
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Step One</Text>
